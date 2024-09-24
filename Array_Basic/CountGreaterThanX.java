@@ -1,9 +1,6 @@
 package Array_Basic;
 
 public class CountGreaterThanX {
-    public static void main(String[] args) {
-
-    }
     public static int greaterThanX(int arr[], int n, int x)
     {
         int cnt =0;
